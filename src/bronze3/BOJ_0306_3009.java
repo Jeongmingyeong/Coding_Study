@@ -1,0 +1,31 @@
+package bronze3;
+import java.util.*;
+
+public class BOJ_0306_3009 {
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+
+        ArrayList<Integer> x = new ArrayList<>();
+        ArrayList<Integer> y = new ArrayList<>();
+
+        for(int i = 0; i < 3; i++){
+            String[] input = sc.nextLine().split(" ");
+            int a = Integer.parseInt(input[0]);
+            int b = Integer.parseInt(input[1]);
+
+            if(x.contains(a)){
+                x.remove(Integer.valueOf(a));
+            }
+            else x.add(a);
+
+            if(y.contains(b)){
+                y.remove(Integer.valueOf(b));
+            }
+            else y.add(b);
+        }
+
+        System.out.println(x.get(0) + " " + y.get(0));
+
+        sc.close();
+    }
+}
