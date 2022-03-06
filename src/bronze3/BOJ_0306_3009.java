@@ -29,3 +29,11 @@ public class BOJ_0306_3009 {
         sc.close();
     }
 }
+
+/*
+    직사각형의 네번째 점 찾기.
+
+    input : 3 3                   output : 6 6
+            3 6
+            6 3
+ */
