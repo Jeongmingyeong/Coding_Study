@@ -1,7 +1,7 @@
 package silver4;
 import java.util.*;
 
-public class BOJ_0109_1676 {
+public class BOJ_1676_0109 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt(); // 1 <= N <= 500

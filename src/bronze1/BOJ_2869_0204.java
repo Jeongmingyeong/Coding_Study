@@ -2,7 +2,7 @@ package bronze1;
 import java.util.*;
 import java.io.*;
 
-public class BOJ_0204_2869 {
+public class BOJ_2869_0204 {
     public static void main(String[] args) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter wr = new BufferedWriter(new OutputStreamWriter(System.out));

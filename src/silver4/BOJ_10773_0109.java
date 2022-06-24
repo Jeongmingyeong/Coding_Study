@@ -3,7 +3,7 @@ package silver4;
 import java.util.Scanner;
 import java.util.Stack;
 
-public class BOJ_0109_10773 {
+public class BOJ_10773_0109 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int line = sc.nextInt();

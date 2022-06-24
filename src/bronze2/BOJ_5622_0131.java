@@ -1,7 +1,7 @@
 package bronze2;
 import java.util.*;
 
-public class BOJ_0131_5622 {
+public class BOJ_5622_0131 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 

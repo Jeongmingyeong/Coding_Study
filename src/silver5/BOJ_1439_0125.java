@@ -1,7 +1,7 @@
 package silver5;
 import java.util.*;
 
-public class BOJ_0125_1439 {
+public class BOJ_1439_0125 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         String[] str = sc.nextLine().split("");

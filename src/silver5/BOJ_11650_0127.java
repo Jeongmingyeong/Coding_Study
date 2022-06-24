@@ -1,7 +1,7 @@
 package silver5;
 import java.util.*;
 
-public class BOJ_0127_11650 {
+public class BOJ_11650_0127 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt(); // 입력받는 줄수

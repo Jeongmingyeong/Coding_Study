@@ -1,7 +1,7 @@
 package bronze4;
 import java.util.*;
 
-public class BOJ_0227_2525 {
+public class BOJ_2525_0227 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int hour = sc.nextInt();

@@ -1,7 +1,7 @@
 package silver4;
 import java.util.*;
 
-public class BOJ_0118_2108 {
+public class BOJ_2108_0118 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 

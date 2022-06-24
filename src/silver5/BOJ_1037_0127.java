@@ -2,7 +2,7 @@ package silver5;
 import java.util.*;
 import java.io.*;
 
-public class BOJ_0127_1037 {
+public class BOJ_1037_0127 {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter wr = new BufferedWriter(new OutputStreamWriter(System.out));

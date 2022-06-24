@@ -1,7 +1,7 @@
 package silver5;
 import java.util.*;
 
-public class BOJ_0201_1316 {
+public class BOJ_1316_0201 {
 
     static Scanner sc = new Scanner(System.in);
 

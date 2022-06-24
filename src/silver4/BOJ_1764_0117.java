@@ -2,7 +2,7 @@ package silver4;
 import java.util.*;
 import java.io.*;
 
-public class BOJ_0117_1764 {
+public class BOJ_1764_0117 {
     public static void main(String[] args) throws IOException {
         // TODO Auto-generated method stub
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

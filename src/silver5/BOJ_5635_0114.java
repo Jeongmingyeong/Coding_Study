@@ -1,7 +1,7 @@
 package silver5;
 import java.io.*;
 
-public class BOJ_0114_5635 {
+public class BOJ_5635_0114 {
 
     public static void main(String[] args) throws IOException {
         // TODO Auto-generated method stub

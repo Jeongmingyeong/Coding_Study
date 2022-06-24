@@ -1,7 +1,7 @@
 package silver5;
 import java.util.*;
 
-public class BOJ_0114_1158 {
+public class BOJ_1158_0114 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
 
